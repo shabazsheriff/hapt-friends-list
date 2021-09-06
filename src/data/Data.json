@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "full_name": "Rahul Gupta",
+        "is_favourite": true
+    },
+    {
+        "id": 2,
+        "full_name": "Shivangi Sharma",
+        "is_favourite": false
+    },
+    {
+        "id": 3,
+        "full_name": "Akash Singh",
+        "is_favourite": false
+    },
+    {
+        "id": 4,
+        "full_name": "shabaz sheriff",
+        "is_favourite": false
+    }
+]
